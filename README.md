@@ -1,7 +1,4 @@
 # py-secure-file-sharing
-Вот пример README для вашего проекта:
-
----
 
 # Secure File Sharing
 
@@ -97,7 +94,3 @@ File decrypted successfully
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-This README includes all the necessary information to get started with your project and explains the requirements, installation steps, and usage.
